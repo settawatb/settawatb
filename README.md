@@ -1,12 +1,15 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Settawat Buddhakanchana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Settawat Buddhakanchana
 ===============================================================================================================================================
 
-Computer Engineering Student
+Computer Engineering Student (Senior)
 ----------------------------
+[Certifications](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf)
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [settawat.bpalm@gmail.com](mailto:settawat.bpalm@gmail.com)
+* 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13751597/Resume_CV.pdf)
+* ⭐  Certifications [Certifications.pdf](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf)
 
 ### Skills
 
@@ -39,6 +42,6 @@ Computer Engineering Student
 <p align="left"> <a href="https://www.github.com/settawatb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
-### Online shopping Application with AR * Project (Work in Process)
+### Online shopping Application with AR **Work in Process**
 <img align="left" alt="AR Application" width="200" height="400" src="https://github.com/settawatb/settawatb/assets/90975874/c1b3ab80-23c1-4beb-83d1-91ad9bb855c3">
 <img align="right" alt="Draft UX/UI Figma" width="390" height="400" src="https://github.com/settawatb/settawatb/assets/90975874/4059b6d4-636e-48a0-8c29-79157fce4585">
