@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Engineering Student (Senior)
 ----------------------------
-[Certifications](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf)
-
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [settawat.bpalm@gmail.com](mailto:settawat.bpalm@gmail.com)
 * 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13751597/Resume_CV.pdf)
