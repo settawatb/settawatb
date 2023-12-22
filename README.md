@@ -41,4 +41,4 @@ Computer Engineering Student
 
 ### Online shopping Application with AR * Project (Work in Process)
 <img align="left" alt="AR Application" width="300" height="600" src="https://github.com/settawatb/settawatb/assets/90975874/c1b3ab80-23c1-4beb-83d1-91ad9bb855c3">
-<img align="center" alt="Draft UX/UI Figma" width="590" height="600" src="https://github.com/settawatb/settawatb/assets/90975874/4059b6d4-636e-48a0-8c29-79157fce4585">
+<img align="right" alt="Draft UX/UI Figma" width="590" height="600" src="https://github.com/settawatb/settawatb/assets/90975874/4059b6d4-636e-48a0-8c29-79157fce4585">
