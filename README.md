@@ -10,7 +10,7 @@ Computer Engineering Student (Senior)
 * 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13751597/Resume_CV.pdf)
 * ⭐  Certifications [Certifications.pdf](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf)
   
-<img align="right" alt="hehe" width="600" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+<img align="center" alt="hehe" width="600" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
 
 
