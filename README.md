@@ -41,6 +41,6 @@ Computer Engineering Student (Senior)
 <p align="left"> <a href="https://www.github.com/settawatb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
-### Online shopping Application with AR **Work in Process**
+### Online shopping Application with AR  🚧 Work in Process 🚧
 <img align="left" alt="AR Application" width="200" height="400" src="https://github.com/settawatb/settawatb/assets/90975874/c1b3ab80-23c1-4beb-83d1-91ad9bb855c3">
 <img align="right" alt="Draft UX/UI Figma" width="390" height="400" src="https://github.com/settawatb/settawatb/assets/90975874/4059b6d4-636e-48a0-8c29-79157fce4585">
