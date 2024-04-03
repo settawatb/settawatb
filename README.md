@@ -6,9 +6,9 @@ Computer Engineering Student (Senior)
 ----------------------------
 * 🤔  Just call me Palm 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [settawat.bpalm@gmail.com](mailto:settawat.bpalm@gmail.com)
-* 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13833233/Resume_CV_Settawat.pdf)
-* ⭐  Certifications [Certifications.pdf](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf)
+<!-- * ✉️  You can contact me at [settawat.bpalm@gmail.com](mailto:settawat.bpalm@gmail.com) -->
+<!-- * 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13833233/Resume_CV_Settawat.pdf) -->
+<!-- * ⭐  Certifications [Certifications.pdf](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf) -->
   
 <img align="center" alt="hehe" width="600" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
