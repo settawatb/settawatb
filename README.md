@@ -1,44 +1,85 @@
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Settawat B.
-===============================================================================================================================================
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="wave" /> I'm Settawat B.
 
-Software Developer
-----------------------------
-* 🤔  Just call me Palm 
-* 🌍  I'm based in Bangkok, Thailand
-<!-- * ✉️  You can contact me at [settawat.bpalm@gmail.com](mailto:settawat.bpalm@gmail.com) -->
-<!-- * 📄  My Resume and CV [Resume CV.pdf](https://github.com/settawatb/settawatb/files/13833233/Resume_CV_Settawat.pdf) -->
-<!-- * ⭐  Certifications [Certifications.pdf](https://github.com/settawatb/settawatb/files/13751662/Certifications.pdf) -->
-  
-<img align="center" alt="hehe" width="600" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
+<a href="https://github.com/settawatb">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;Flutter+%E2%80%A2+.NET+%E2%80%A2+Go+%E2%80%A2+Next.js" alt="Typing SVG" />
+</a>
 
-
-
-### Skills
-
-😎  Proficient
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
-🤓  Basic
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Bangkok%2C%20Thailand-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Bangkok, Thailand" />
+  <img src="https://komarev.com/ghpvc/?username=settawatb&style=flat-square&color=22C55E&label=Profile+views" alt="Profile views" />
 </p>
 
-🧠  I'm learning
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-</p>
-🗃️  Database
-<p align="left">
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
-🛠️  Tools & Others
-<p align="left">
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+</div>
 
+---
 
-### Socials
+### 👋 About me
 
-<p align="left"> <a href="https://www.github.com/settawatb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+- 🤔 Just call me Palm
+- 💼 Software developer, working mostly on mobile apps and backend APIs
+- 🌍 Based in Bangkok, Thailand
+- 🎵 Can make a bit of music too 😂
+
+---
+
+### 🛠️ What I'm working on
+
+- 📱 Mobile apps with Flutter
+- ⚙️ Backend APIs with .NET and Go
+- 🌐 Web portals and dashboards with Next.js
+- 🧪 Picking up Docker, Kubernetes and CI/CD along the way
+
+---
+
+### 🧰 Tech stack
+
+<table>
+<tr>
+<td><b>Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin&perline=10" alt="Mobile" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,cs,go,nodejs,express,py,java&perline=10" alt="Backend" /></td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&perline=10" alt="Web" /></td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase&perline=10" alt="Database" /><br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux&perline=10" alt="DevOps" /></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,ps,apple&perline=10" alt="Tools" /></td>
+</tr>
+</table>
+
+---
+
+### 🌱 Side projects
+
+| Project | About | Stack |
+|---|---|---|
+| [Playground-AR](https://github.com/settawatb/Playground-AR) | AR app on iOS, with its own [API](https://github.com/settawatb/express-api-app) | Swift · ARKit · Express |
+| [AR_Pick_and_Place](https://github.com/settawatb/AR_Pick_and_Place) | Pick up and place objects in AR | Swift · ARKit |
+| [Arduino-Target-Practice-Game](https://github.com/settawatb/Arduino-Target-Practice-Game) | A small target shooting game on Arduino | C · Arduino |
+| [AndroidRecyclearView](https://github.com/settawatb/AndroidRecyclearView) | Practicing RecyclerView on Android | Java · Android |
+
+---
+
+<div align="center">
+
+<img alt="coding" width="420" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+
+</div>
