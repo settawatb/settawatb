@@ -78,6 +78,16 @@
 
 ---
 
+### 📈 GitHub stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=settawatb&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img alt="coding" width="420" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
